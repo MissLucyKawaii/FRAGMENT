@@ -1,2 +1,0 @@
-# FRAGMENT
-Trojant Python
